@@ -30,7 +30,7 @@ const data = [
   {
     title: 'Offers near you',
     subtitle: 'Flutter/Dart and Firebase',
-    link: 'https://react-alan-ai.netlify.app',
+    link: '',
     image: '/images/projects/onu_show.png',
     date: '2020-10-1',
     desc:
