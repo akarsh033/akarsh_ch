@@ -1,2 +1,2 @@
-# akarsh_ch
+# Akarsh_CH
 A Simple React based Portfolio website.
